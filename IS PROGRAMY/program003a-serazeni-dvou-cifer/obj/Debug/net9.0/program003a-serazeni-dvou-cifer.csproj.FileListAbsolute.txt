@@ -1,0 +1,15 @@
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\bin\Debug\net9.0\program003a-serazeni-dvou-cifer.exe
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\bin\Debug\net9.0\program003a-serazeni-dvou-cifer.deps.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\bin\Debug\net9.0\program003a-serazeni-dvou-cifer.runtimeconfig.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\bin\Debug\net9.0\program003a-serazeni-dvou-cifer.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\bin\Debug\net9.0\program003a-serazeni-dvou-cifer.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\program003a-serazeni-dvou-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\program003a-serazeni-dvou-cifer.AssemblyInfoInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\program003a-serazeni-dvou-cifer.AssemblyInfo.cs
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\program003a-serazeni-dvou-cifer.csproj.CoreCompileInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\program003a-serazeni-dvou-cifer.sourcelink.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\program003a-serazeni-dvou-cifer.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\refint\program003a-serazeni-dvou-cifer.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\program003a-serazeni-dvou-cifer.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\program003a-serazeni-dvou-cifer.genruntimeconfig.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003a-serazeni-dvou-cifer\obj\Debug\net9.0\ref\program003a-serazeni-dvou-cifer.dll

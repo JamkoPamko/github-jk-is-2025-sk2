@@ -1,0 +1,49 @@
+﻿using System.Runtime.InteropServices.Marshalling;
+
+string again = "a";
+while (again == "a")
+{
+    Console.Clear();
+    Console.WriteLine("********************************************");
+    Console.WriteLine("*********** Seřazení dvou čísel ************");
+    Console.WriteLine("********************************************");
+    Console.WriteLine("********************************************");
+    Console.WriteLine("************* Jakub Kubový *****************");
+    Console.WriteLine("************** 23.10.2025 ******************");
+    Console.WriteLine("********************************************");
+    Console.WriteLine("********************************************");
+    Console.WriteLine();
+
+    Console.Write("Zadejte celé čílo A: ");
+    int a;
+    while (!int.TryParse(Console.ReadLine(), out a))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte celé čílo znovu A: ");
+    }
+
+    Console.Write("Zadejte celé číslo B: ");
+    int b;
+    while (!int.TryParse(Console.ReadLine(), out b))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte celé číslo snovu B: ");
+    }
+
+    Console.WriteLine();
+
+    int pom;
+    //Chceme seřadit čísla vzestupně
+    if (a > b)
+    {
+        pom = a;
+        a = b;
+        b = pom;
+        Console.WriteLine("Došlo k prohození");
+    }
+
+    Console.WriteLine("=================================================");
+    Console.WriteLine($"Seřazení čísla: {a}, {b}");
+    Console.WriteLine("=================================================");
+    Console.WriteLine();
+    Console.WriteLine("Pro opakování programu stiskněte klávesu a");
+    again = Console.ReadLine();
+}
