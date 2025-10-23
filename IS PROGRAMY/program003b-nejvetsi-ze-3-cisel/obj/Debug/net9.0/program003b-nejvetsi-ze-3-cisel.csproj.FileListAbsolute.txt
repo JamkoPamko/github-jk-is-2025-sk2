@@ -1,0 +1,15 @@
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.exe
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.deps.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.runtimeconfig.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.AssemblyInfoInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.AssemblyInfo.cs
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.csproj.CoreCompileInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.sourcelink.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\refint\program003b-nejvetsi-ze-3-cisel.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-3-cisel.genruntimeconfig.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program003b-nejvetsi-ze-3-cisel\obj\Debug\net9.0\ref\program003b-nejvetsi-ze-3-cisel.dll
