@@ -19,7 +19,6 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte počet čísel znovu: ");
     }
 
-
     Console.Write("Zadejte dolní mez (celé číslo): ");
     int lowerBound; // Dolní mez
     while (!int.TryParse(Console.ReadLine(), out lowerBound))
@@ -27,15 +26,12 @@ while (again == "a")
         Console.Write("Nezadali jste celé číslo. Zadejte dolní mez znovu: ");
     }
 
-
-
     Console.Write("Zadejte horní mez (celé číslo): ");
     int upperBound; // Horní mez
     while (!int.TryParse(Console.ReadLine(), out upperBound))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte horní mez znovu: ");
     }
-
 
     Console.WriteLine();
     Console.WriteLine("==========================================================");
@@ -66,33 +62,5 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a");
     again = Console.ReadLine();
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    Console.WriteLine("Pro opakování programu stiskněte klávesu a");
-    again = Console.ReadLine();
-
-
-
 
 }
