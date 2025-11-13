@@ -6,8 +6,8 @@ while (again == "a")
     Console.WriteLine("*********** Generátor pseudonáhodných čísel *************");
     Console.WriteLine("*********************************************************");
     Console.WriteLine("*********************************************************");
-    Console.WriteLine("************* Tomáš Žižka ******************");
-    Console.WriteLine("************** 6.11.2025 *******************");
+    Console.WriteLine("************* Jakub Kubový ******************");
+    Console.WriteLine("************** 06.11.2025 *******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
