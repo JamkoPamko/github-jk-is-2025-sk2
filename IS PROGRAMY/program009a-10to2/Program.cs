@@ -31,6 +31,7 @@ while (again == "a")
     {
         zbytek = number10 % 2;
         number10 = (number10 - zbytek)/2;
+    
         myArray[i] = zbytek;
 
         Console.WriteLine("Celá část: {0}; Zbytek: {1}", number10, zbytek)
