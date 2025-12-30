@@ -1,0 +1,15 @@
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\bin\Debug\net9.0\program004d-obrazec9.exe
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\bin\Debug\net9.0\program004d-obrazec9.deps.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\bin\Debug\net9.0\program004d-obrazec9.runtimeconfig.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\bin\Debug\net9.0\program004d-obrazec9.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\bin\Debug\net9.0\program004d-obrazec9.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\program004d-obrazec9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\program004d-obrazec9.AssemblyInfoInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\program004d-obrazec9.AssemblyInfo.cs
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\program004d-obrazec9.csproj.CoreCompileInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\program004d-obrazec9.sourcelink.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\program004d-obrazec9.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\refint\program004d-obrazec9.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\program004d-obrazec9.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\program004d-obrazec9.genruntimeconfig.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004d-obrazec9\obj\Debug\net9.0\ref\program004d-obrazec9.dll

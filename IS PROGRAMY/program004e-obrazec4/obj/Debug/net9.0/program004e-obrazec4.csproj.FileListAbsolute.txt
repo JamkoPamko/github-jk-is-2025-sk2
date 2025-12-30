@@ -1,0 +1,15 @@
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\bin\Debug\net9.0\program004e-obrazec4.exe
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\bin\Debug\net9.0\program004e-obrazec4.deps.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\bin\Debug\net9.0\program004e-obrazec4.runtimeconfig.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\bin\Debug\net9.0\program004e-obrazec4.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\bin\Debug\net9.0\program004e-obrazec4.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\program004e-obrazec4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\program004e-obrazec4.AssemblyInfoInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\program004e-obrazec4.AssemblyInfo.cs
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\program004e-obrazec4.csproj.CoreCompileInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\program004e-obrazec4.sourcelink.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\program004e-obrazec4.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\refint\program004e-obrazec4.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\program004e-obrazec4.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\program004e-obrazec4.genruntimeconfig.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004e-obrazec4\obj\Debug\net9.0\ref\program004e-obrazec4.dll

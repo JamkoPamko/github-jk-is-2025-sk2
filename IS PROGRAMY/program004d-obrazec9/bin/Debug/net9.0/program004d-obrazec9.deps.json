@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program004d-obrazec9/1.0.0": {
+        "runtime": {
+          "program004d-obrazec9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program004d-obrazec9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
