@@ -28,7 +28,7 @@ while (again == "a")
         {
             Console.Write("* ");
         }   
-               
+            
         
         Console.WriteLine();
     }
