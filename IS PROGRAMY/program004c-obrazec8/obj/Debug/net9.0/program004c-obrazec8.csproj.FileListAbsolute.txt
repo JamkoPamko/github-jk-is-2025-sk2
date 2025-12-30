@@ -1,0 +1,15 @@
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\bin\Debug\net9.0\program004c-obrazec8.exe
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\bin\Debug\net9.0\program004c-obrazec8.deps.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\bin\Debug\net9.0\program004c-obrazec8.runtimeconfig.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\bin\Debug\net9.0\program004c-obrazec8.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\bin\Debug\net9.0\program004c-obrazec8.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\program004c-obrazec8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\program004c-obrazec8.AssemblyInfoInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\program004c-obrazec8.AssemblyInfo.cs
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\program004c-obrazec8.csproj.CoreCompileInputs.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\program004c-obrazec8.sourcelink.json
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\program004c-obrazec8.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\refint\program004c-obrazec8.dll
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\program004c-obrazec8.pdb
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\program004c-obrazec8.genruntimeconfig.cache
+C:\Users\KubaK\Documents\git\github-jk-is-2025-sk2\IS PROGRAMY\program004c-obrazec8\obj\Debug\net9.0\ref\program004c-obrazec8.dll

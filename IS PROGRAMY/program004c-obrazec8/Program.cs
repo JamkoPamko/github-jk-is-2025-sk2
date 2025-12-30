@@ -6,11 +6,11 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("********************************************");
-    Console.WriteLine("*********** pravoúhlý trojuhelník *************");
+    Console.WriteLine("*********** Výpis číselné řady *************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine("************* Jakub Kubový *****************");
-    Console.WriteLine("**************  ******************");
+    Console.WriteLine("************** 13.10.2025 ******************");
     Console.WriteLine("********************************************");
     Console.WriteLine("********************************************");
     Console.WriteLine();
@@ -18,25 +18,33 @@ while (again == "a")
     Console.Write("Zadejte první číslo řady (celé číslo): ");
     int first;
     while (!int.TryParse(Console.ReadLine(), out first))
-    {        
+    {
         Console.Write("Nezadali jste celé číslo. Zadejte první číslo řady znovu: ");
     }
 
     for (int i = 0; i < first; i++)
     {
-        for (int j = 0; j <= i; j++)
+        for (int j = 0; j < first; j++)
         {
-            Console.Write("* ");
-        }   
-            
+            if (i == 0 || j == 0 || i%2 == 0 || j%2 == 0)
+
+            {
+                Console.Write("* ");
+            }
+            else
+            {
+                Console.Write("  ");
+            }
 
 
 
-            
+        }
+        
+        
+        
         
         Console.WriteLine();
     }
-
 
 
 
