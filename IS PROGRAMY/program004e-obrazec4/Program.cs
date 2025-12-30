@@ -28,6 +28,7 @@ while (again == "a")
     {
         for (int sloupec = 0; sloupec < first; sloupec++)
         {
+            
             //příkaz pro udělání Z
             if (radek == first - 1 || radek == 0 || radek + sloupec == first -1)
             {
